@@ -1,0 +1,17 @@
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\bin\Debug\netcoreapp3.1\WAAPI_GetInfo.exe
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\obj\Debug\netcoreapp3.1\WAAPI_GetInfo.csprojAssemblyReference.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\obj\Debug\netcoreapp3.1\WAAPI_GetInfo.AssemblyInfoInputs.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\obj\Debug\netcoreapp3.1\WAAPI_GetInfo.AssemblyInfo.cs
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\bin\Debug\netcoreapp3.1\WAAPI_GetInfo.deps.json
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\bin\Debug\netcoreapp3.1\WAAPI_GetInfo.runtimeconfig.json
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\bin\Debug\netcoreapp3.1\WAAPI_GetInfo.runtimeconfig.dev.json
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\bin\Debug\netcoreapp3.1\WAAPI_GetInfo.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\bin\Debug\netcoreapp3.1\WAAPI_GetInfo.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\bin\Debug\netcoreapp3.1\WaapiClientCore.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\bin\Debug\netcoreapp3.1\WaapiClientJson.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\bin\Debug\netcoreapp3.1\WaapiClientCore.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\bin\Debug\netcoreapp3.1\WaapiClientJson.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\obj\Debug\netcoreapp3.1\WAAPI_GetInfo.csproj.CopyComplete
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\obj\Debug\netcoreapp3.1\WAAPI_GetInfo.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI_GetInfo\WAAPI_GetInfo\obj\Debug\netcoreapp3.1\WAAPI_GetInfo.pdb
